@@ -1,2 +1,2 @@
-# sdi-actividad2-test-302-303-master
- 
+# sdi-actividad2-test-302-303
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d169df2333604b59a6ce9365184e8389)](https://app.codacy.com/manual/UO247346/sdi-actividad2-test-302-303?utm_source=github.com&utm_medium=referral&utm_content=UO247346/sdi-actividad2-test-302-303&utm_campaign=Badge_Grade_Dashboard)
